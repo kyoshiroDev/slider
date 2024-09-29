@@ -1,4 +1,4 @@
- const sliderData = [
+const sliderData = [
   {
     id: 1,
     description: "Leaving room"
